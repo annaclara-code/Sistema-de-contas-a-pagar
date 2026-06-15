@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Banco de dados
+*.db
+
+# PyCharm
+.idea/
+
+# Build
+build/
+dist/
+
+# Arquivos temporários
+*.log
